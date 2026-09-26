@@ -14,7 +14,7 @@ A full-stack sports management simulation focused on complex domain modeling, bu
 
 **Stack:** TypeScript, Node.js, React, PostgreSQL
 
-[View project]([LINK](https://github.com/kadualma1/PROJECT-MANAGER))
+[View project](https://github.com/kadualma1/PROJECT-MANAGER)
 
 ## Technologies
 
