@@ -1,16 +1,27 @@
-## Hi there 👋
+# Carlos Eduardo Maroso
 
-<!--
-**kadualma1/kadualma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend and full-stack development.
 
-Here are some ideas to get you started:
+I have professional experience working with business-critical software for the logistics and transportation industry, including financial, accounting, reporting, and electronic freight documentation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is building modern applications with TypeScript, Node.js, React, and PostgreSQL, with particular interest in backend architecture, domain modeling, databases, and automated testing.
+
+## Currently working on
+
+### Sports Management Simulation
+
+A full-stack sports management simulation focused on complex domain modeling, business rules, and maintainable architecture.
+
+**Stack:** TypeScript, Node.js, React, PostgreSQL
+
+[View project]((https://github.com/kadualma1/PROJECT-MANAGER))
+
+## Technologies
+
+TypeScript • Node.js • React • PostgreSQL • SQL • Git
+
+Currently expanding into Java/Spring Boot and Python/FastAPI.
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/carlos-eduardo-maroso-alves-7a7896204)
